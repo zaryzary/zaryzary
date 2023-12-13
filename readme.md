@@ -1,14 +1,14 @@
 # About me
 
-I am Juan Dela Cruz, passionate about coding and skilled in database management. I excel in tackling complex problems and crafting elegant solutions. My tech journey began when I enrolled in the BS Information Technology program.
+I am Eliezer Paredes, passionate about coding and skilled in database management. I excel in tackling complex problems and crafting elegant solutions. My tech journey began when I enrolled in the BS Computer Science program.
 
 ## Education
-- **BS Information Technology**
+- **BS Computer Science**
   - New Era University
   - 2021-Present
 
 ## Certification
-- **[NoSQL and DBaaS 101](Certification_Link_1)**
+- **https://courses.cognitiveclass.ai/certificates/f2b0caf815264691b69c6234715bf42d**
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link_2)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification_Link_3)**
 
@@ -18,5 +18,5 @@ I am Juan Dela Cruz, passionate about coding and skilled in database management.
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact me
-- **LinkedIn**: [LinkedIn Profile](LinkedIn_Profile_Link)
-- **Email**: juandelacruz@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/eliezer-paredes-633510212/
+- **Email**: zryprds@gmail.com
